@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jubik
+ *
+ */
+module musicPlaylist {
+}
